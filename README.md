@@ -40,5 +40,7 @@ VirtualPet/
 ├── pet_log.py      # Logs actions to file
 ├── *.txt           # Individual pet data files
 ├── pet_log.txt     # Interaction log
+├── pet_data.txt    # Sample pet data (can be deleted safely, now using name-based files)
+├── pet_list.txt    # List of all created pet names
 └── README.md       # Project description
 ```
