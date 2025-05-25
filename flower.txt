@@ -1,0 +1,8 @@
+Name: flower
+Species: cat
+Personality: playful
+Hunger: 6
+Happiness: 7
+Cleanliness: 6
+Energy: 8
+HappinessHistory: 7,7
